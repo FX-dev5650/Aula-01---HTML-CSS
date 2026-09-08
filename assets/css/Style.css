@@ -1,0 +1,13 @@
+img{
+    border-radius: 25px;
+    border: 10px;
+    border-style: ridge;
+    
+}
+h1{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    color: blueviolet;
+}
