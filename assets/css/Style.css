@@ -11,3 +11,24 @@ h1{
 h2{
     color: blueviolet;
 }
+/*Classe personalizada*/
+.titulo{
+    color: rgb(115, 115, 172);
+}
+.subyellow{
+    color: yellow;
+}
+/*ID*/
+#text{
+    color: brown;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+}
+body{
+   background-color: rgba(122, 115, 785, 0.90);
+}
+/* 
+    color = cor da fonte
+    background-color= cor de fundo
+*/
